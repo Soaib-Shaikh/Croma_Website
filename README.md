@@ -4,7 +4,7 @@ A responsive and modern website for Croma, shows products, brands, and useful li
 
 You can visit the website here [Croma Website] (https://croma-psi.vercel.app/)
 
-![alt text](./assets/image.png)
+![alt text](./assets/image1.png)
 
 ## Features
 
