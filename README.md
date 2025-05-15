@@ -1,10 +1,8 @@
 # Croma Website
 
-A responsive and modern website for Croma, shows products, brands, and useful links with a clean and user-friendly interface.
+A responsive and modern website for Croma, shows products, brands, and useful links with a clean and user-friendly.
 
 You can visit the website here [Croma Website] (https://croma-website-nine.vercel.app/)
-
-![alt text](./assets/image1.png)
 
 ## Features
 
